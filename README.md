@@ -1,1 +1,1 @@
-# CodeAlpha_Password_Generatorr
+# CodeAlpha_Password_Generator
